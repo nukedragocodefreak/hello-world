@@ -8,7 +8,7 @@ orbs:
   # Declare a dependency on the welcome-orb
   //welcome: circleci/welcome-orb@0.4.1
 
-jobs:
+#jobs:
   #print_hello:
   #  docker:
   #    - image: circleci/node:13.8.0
